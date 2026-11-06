@@ -7,7 +7,7 @@ L'utilisateur est sur la page de connexion.
 1. Ouvrir https://www.saucedemo.com/
 2. Saisir standard_user dans le champ Username.
 3. Saisir secret_sauce dans le champ Password.
-4. Cliquer sur Login.
+4. Cliquer sur le bouton Login.
  
 ## Résultat attendu
-L'utilisateur accède à la page des produits.
+L'utilisateur accède à la page d'accueil, il est connecté et sa photo est visible en haut à droite.
